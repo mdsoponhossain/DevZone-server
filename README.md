@@ -10,7 +10,7 @@
 
 * At first, clone this repo.
 * Add a .env file on this root.
-* Add crediential like this: DB_USER=documentationUser
-DB_PASS=E8CDMr2W8GGeH9S0
+* Add crediential like this: DB_USER=dbUser
+DB_PASS=userPass
 
 ### If you have find any issue,Please inform me.Thank you.
